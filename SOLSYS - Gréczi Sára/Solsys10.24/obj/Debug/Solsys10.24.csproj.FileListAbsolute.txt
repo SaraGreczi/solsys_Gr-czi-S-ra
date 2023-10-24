@@ -1,0 +1,7 @@
+C:\Users\B19GrécziS\Desktop\_SOLSYS\Solsys10.24\bin\Debug\Solsys10.24.exe.config
+C:\Users\B19GrécziS\Desktop\_SOLSYS\Solsys10.24\bin\Debug\Solsys10.24.exe
+C:\Users\B19GrécziS\Desktop\_SOLSYS\Solsys10.24\bin\Debug\Solsys10.24.pdb
+C:\Users\B19GrécziS\Desktop\_SOLSYS\Solsys10.24\obj\Debug\Solsys10.24.csproj.AssemblyReference.cache
+C:\Users\B19GrécziS\Desktop\_SOLSYS\Solsys10.24\obj\Debug\Solsys10.24.csproj.CoreCompileInputs.cache
+C:\Users\B19GrécziS\Desktop\_SOLSYS\Solsys10.24\obj\Debug\Solsys10.24.exe
+C:\Users\B19GrécziS\Desktop\_SOLSYS\Solsys10.24\obj\Debug\Solsys10.24.pdb
